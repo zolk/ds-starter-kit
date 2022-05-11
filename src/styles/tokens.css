@@ -203,7 +203,7 @@ html {
   --ds-input-font-size-medium: var(--ds-font-size-14);
   --ds-input-font-size-large: var(--ds-font-size-20);
   --ds-input-height-small: 30px;
-  --ds-input-height-medium: 40px;
+  --ds-input-height-medium: 45px;
   --ds-input-height-large: 50px;
   --ds-input-help-color: var(--ds-color-cool-gray-500);
   --ds-input-help-font-size-small: var(--ds-font-size-12);
